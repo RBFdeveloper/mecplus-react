@@ -1,6 +1,8 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const welcome: React.FC = () => {
+    const navigate = useNavigate();
   return (
     <section
       id="inicio"
@@ -13,7 +15,7 @@ const welcome: React.FC = () => {
         <p className="text-xl md:text-2xl max-w-2xl mx-auto">
           O melhor serviço de manutenção para motores a diesel.
         </p>
-        <button className="mt-8 bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full transition-colors duration-300 transform hover:scale-105">
+        <button onClick={() => navigate('/login')} className="mt-8 bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full transition-colors duration-300 transform hover:scale-105">
           Agende um Serviço
         </button>
       </div>
