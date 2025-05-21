@@ -4,26 +4,14 @@
 
 ---
 
-## 📋 Conteúdo
-
-- [Tecnologias]
-- [Funcionalidades]
-- [Estrutura do Projeto](
-- [Instalação]
-- [Execução]
-- [Contribuição]
-- [Licença]
-
----
-
 ## 🚀 Tecnologias
 
-- [React ]
-- [TypeScript]
-- [Tailwind CSS]
-- [React Router]
-- [Vite]
-- [Lucide React Icons]
+- React 
+- TypeScript
+- Tailwind CSS
+- React Router
+- Vite
+- Lucide React Icons
 
 ---
 
