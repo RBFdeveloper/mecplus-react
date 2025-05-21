@@ -6,24 +6,24 @@
 
 ## 📋 Conteúdo
 
-- [Tecnologias](#-tecnologias)
-- [Funcionalidades](#-funcionalidades)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Instalação](#-instalação)
-- [Execução](#-execução)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
+- [Tecnologias]
+- [Funcionalidades]
+- [Estrutura do Projeto](
+- [Instalação]
+- [Execução]
+- [Contribuição]
+- [Licença]
 
 ---
 
 ## 🚀 Tecnologias
 
-- [React 18](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Router v6](https://reactrouter.com/)
-- [Vite](https://vitejs.dev/)
-- [Lucide React Icons](https://lucide.dev/)
+- [React ]
+- [TypeScript]
+- [Tailwind CSS]
+- [React Router]
+- [Vite]
+- [Lucide React Icons]
 
 ---
 
